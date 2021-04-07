@@ -10,3 +10,5 @@ Los notebooks que componen el proyecto son los siguientes:
 **Gráficas.ipynb:** Con todos los datos ya recogidos, limpiados y analizados en el notebook anterior se realizan una serie de gráficas para ilustrar de manera gráfica las principales conclusiones
 
 **Mapas.ipynb:** Mapas de España, divididos por provincias, en los que se representan las cuatro variables meteorológicas analizadas durante el proyecto: temperatura, precipitaciones, velocidad del viento y horas de sol.
+
+**PicosValle.ipynb:** Análisis de las horas en las que se consume más y a un precio más caro (horas pico) y en las que se consume menos y a un precio más barato (horas valle) en España.
