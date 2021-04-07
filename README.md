@@ -1,7 +1,7 @@
 # Electrizer
 Proyecto en el que, mediante métodos de regresión, se predice el precio de la electricidad en función de la hora, el día de la semana y las condiciones climatológicas. Además también se realiza un análisis en el que se estudian las horas pico y valle que tienen lugar en la factura eléctrica en España.
 
-Los notebooks que componen el proyecto son los siguientes:
+Los archivos que componen el proyecto son los siguientes:
 
 **DatosAEMET.ipynb:** Se obtienen los datos meteorológicos a través de la API de la Agencia Española de Meteorología (AEMET). Es necesario obtener una _key_ personal para poder trabajar con la API. Para ello basta con seguir los pasos que se indican en la página: https://opendata.aemet.es/centrodedescargas/inicio
 
@@ -12,3 +12,5 @@ Los notebooks que componen el proyecto son los siguientes:
 **Mapas.ipynb:** Mapas de España, divididos por provincias, en los que se representan las cuatro variables meteorológicas analizadas durante el proyecto: temperatura, precipitaciones, velocidad del viento y horas de sol.
 
 **PicosValle.ipynb:** Análisis de las horas en las que se consume más y a un precio más caro (horas pico) y en las que se consume menos y a un precio más barato (horas valle) en España.
+
+**Memoria.pdf:** Documento en el que se explica detalladamente el proyecto: origen, objetivo, contexto, etapas y resultados.
